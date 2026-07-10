@@ -1,0 +1,11 @@
+[package]
+name = "pellis-core"
+version = "0.0.0"
+edition = "2021"
+rust-version = "1.84"
+license = "Apache-2.0"
+description = "no_std, alloc-free core of the Pellis runtime trunk."
+repository = "https://github.com/pellis-labs/pellis"
+publish = false
+
+[dependencies]
